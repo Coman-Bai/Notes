@@ -36,8 +36,7 @@ the corresponding figure:
 <div align = "center">
     <img src = 02.png width = 350px height = 270px>
 </div>
-
-对于一个系统来讲，我们判定其是否处于一个稳态使通过计算这个系统是否同时满足受力平衡与力矩平衡两个条件，他们分别对应这动量和角动量不随时间发生变化。但其实还有另外一种观点就是当这个系统对应的势能为极值点的时候，这个系统处于平衡态，对于弹簧振子这个系统讲，很明显我们可以得到它在原点处是稳定态。
+To a system, the key to judge it's balance or not is calculating the resultant force and moment of this system, they correspond the momentum and the angle momentum depends on time or not. But another view is the system is at the stationary state if the state corresponds the extreme small point of the potential function. For this spring oscillator, origin point correspond the stationary state. 
 
 #### Section 2: Free Oscillator
 
